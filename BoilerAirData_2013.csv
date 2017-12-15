@@ -1,0 +1,127 @@
+indicator_data_id,indicator_id,name,Measure,geo_type_name,geo_entity_id,geo_entity_name,year_description,data_valuemessage,
+130493,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,101,Kingsbridge - Riverdale,2013,42.5,NULL
+130494,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,102,Northeast Bronx,2013,33.8,NULL
+130495,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,103,Fordham - Bronx Pk,2013,71,NULL
+130496,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,104,Pelham - Throgs Neck,2013,24.9,NULL
+130497,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,105,Crotona -Tremont,2013,62.5,NULL
+130498,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,106,High Bridge - Morrisania,2013,78,NULL
+130499,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,107,Hunts Point - Mott Haven,2013,36.8,NULL
+130500,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,201,Greenpoint,2013,18.9,NULL
+130501,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,202,Downtown - Heights - Slope,2013,32,NULL
+130502,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,203,Bedford Stuyvesant - Crown Heights,2013,31.7,NULL
+130503,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,204,East New York,2013,14.7,NULL
+130504,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,205,Sunset Park,2013,13.4,NULL
+130505,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,206,Borough Park,2013,34.8,NULL
+130506,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,207,East Flatbush - Flatbush,2013,33.5,NULL
+130507,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,208,Canarsie - Flatlands,2013,6.7,NULL
+130508,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,209,Bensonhurst - Bay Ridge,2013,26.5,NULL
+130509,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,210,Coney Island - Sheepshead Bay,2013,23.7,NULL
+130510,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,211,Williamsburg - Bushwick,2013,27.8,NULL
+130511,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,301,Washington Heights,2013,115.3,NULL
+130512,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,302,Central Harlem - Morningside Heights,2013,82.1,NULL
+130513,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,303,East Harlem,2013,55.8,NULL
+130514,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,304,Upper West Side,2013,247.9,NULL
+130515,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,305,Upper East Side,2013,269.8,NULL
+130516,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,306,Chelsea - Clinton,2013,204.8,NULL
+130517,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,307,Gramercy Park - Murray Hill,2013,284.7,NULL
+130518,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,308,Greenwich Village - SoHo,2013,132.5,NULL
+130519,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,309,Union Square - Lower East Side,2013,126.1,NULL
+130520,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,310,Lower Manhattan,2013,118.7,NULL
+130521,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,401,Long Island City - Astoria,2013,30.6,NULL
+130522,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,402,West Queens,2013,24.6,NULL
+130523,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,403,Flushing - Clearview,2013,18.7,NULL
+130524,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,404,Bayside - Little Neck,2013,10.4,NULL
+130525,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,405,Ridgewood - Forest Hills,2013,23.6,NULL
+130526,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,406,Fresh Meadows,2013,15.3,NULL
+130527,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,407,Southwest Queens,2013,14.5,NULL
+130528,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,408,Jamaica,2013,13.2,NULL
+130529,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,409,Southeast Queens,2013,8.1,NULL
+130530,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,410,Rockaways,2013,6.1,NULL
+130531,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,501,Port Richmond,2013,2.8,NULL
+130532,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,502,Stapleton - St. George,2013,4.7,NULL
+130533,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,503,Willowbrook,2013,2.1,NULL
+130534,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,504,South Beach - Tottenville,2013,2,NULL
+130445,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,101,Kingsbridge - Riverdale,2013,2,NULL
+130446,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,102,Northeast Bronx,2013,0.3,NULL
+130447,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,103,Fordham - Bronx Pk,2013,3,NULL
+130448,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,104,Pelham - Throgs Neck,2013,0.5,NULL
+130449,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,105,Crotona -Tremont,2013,2,NULL
+130450,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,106,High Bridge - Morrisania,2013,2.4,NULL
+130451,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,107,Hunts Point - Mott Haven,2013,0.4,NULL
+130452,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,201,Greenpoint,2013,0.1,NULL
+130453,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,202,Downtown - Heights - Slope,2013,0.1,NULL
+130454,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,203,Bedford Stuyvesant - Crown Heights,2013,0.1,NULL
+130455,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,204,East New York,2013,0,NULL
+130456,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,205,Sunset Park,2013,0,NULL
+130457,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,206,Borough Park,2013,0.2,NULL
+130458,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,207,East Flatbush - Flatbush,2013,0.3,NULL
+130459,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,208,Canarsie - Flatlands,2013,0,NULL
+130460,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,209,Bensonhurst - Bay Ridge,2013,0.2,NULL
+130461,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,210,Coney Island - Sheepshead Bay,2013,0.1,NULL
+130462,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,211,Williamsburg - Bushwick,2013,0.1,NULL
+130463,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,301,Washington Heights,2013,5.8,NULL
+130464,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,302,Central Harlem - Morningside Heights,2013,2,NULL
+130465,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,303,East Harlem,2013,1.3,NULL
+130466,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,304,Upper West Side,2013,11.4,NULL
+130467,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,305,Upper East Side,2013,10.8,NULL
+130468,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,306,Chelsea - Clinton,2013,7.7,NULL
+130469,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,307,Gramercy Park - Murray Hill,2013,9,NULL
+130470,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,308,Greenwich Village - SoHo,2013,4.1,NULL
+130471,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,309,Union Square - Lower East Side,2013,3,NULL
+130472,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,310,Lower Manhattan,2013,1.7,NULL
+130473,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,401,Long Island City - Astoria,2013,0.8,NULL
+130474,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,402,West Queens,2013,0.3,NULL
+130475,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,403,Flushing - Clearview,2013,0.6,NULL
+130476,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,404,Bayside - Little Neck,2013,0.2,NULL
+130477,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,405,Ridgewood - Forest Hills,2013,0.3,NULL
+130478,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,406,Fresh Meadows,2013,0.5,NULL
+130479,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,407,Southwest Queens,2013,0.1,NULL
+130480,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,408,Jamaica,2013,0.1,NULL
+130481,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,409,Southeast Queens,2013,0,NULL
+130482,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,410,Rockaways,2013,0,NULL
+130483,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,501,Port Richmond,2013,0,NULL
+130484,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,502,Stapleton - St. George,2013,0,NULL
+130485,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,503,Willowbrook,2013,0,NULL
+130486,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,504,South Beach - Tottenville,2013,0,NULL
+130397,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,101,Kingsbridge - Riverdale,2013,17.6,NULL
+130398,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,102,Northeast Bronx,2013,2.2,NULL
+130399,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,103,Fordham - Bronx Pk,2013,24.5,NULL
+130400,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,104,Pelham - Throgs Neck,2013,4.4,NULL
+130401,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,105,Crotona -Tremont,2013,16.9,NULL
+130402,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,106,High Bridge - Morrisania,2013,19.7,NULL
+130403,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,107,Hunts Point - Mott Haven,2013,3.3,NULL
+130404,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,201,Greenpoint,2013,0.4,NULL
+130405,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,202,Downtown - Heights - Slope,2013,0.8,NULL
+130406,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,203,Bedford Stuyvesant - Crown Heights,2013,0.9,NULL
+130407,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,204,East New York,2013,0.1,NULL
+130408,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,205,Sunset Park,2013,0.1,NULL
+130409,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,206,Borough Park,2013,1.5,NULL
+130410,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,207,East Flatbush - Flatbush,2013,2.3,NULL
+130411,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,208,Canarsie - Flatlands,2013,0,NULL
+130412,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,209,Bensonhurst - Bay Ridge,2013,1.7,NULL
+130413,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,210,Coney Island - Sheepshead Bay,2013,0.9,NULL
+130414,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,211,Williamsburg - Bushwick,2013,0.3,NULL
+130415,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,301,Washington Heights,2013,51,NULL
+130416,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,302,Central Harlem - Morningside Heights,2013,15.7,NULL
+130417,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,303,East Harlem,2013,11.6,NULL
+130418,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,304,Upper West Side,2013,99.7,NULL
+130419,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,305,Upper East Side,2013,95,NULL
+130420,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,306,Chelsea - Clinton,2013,67.4,NULL
+130421,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,307,Gramercy Park - Murray Hill,2013,78.8,NULL
+130422,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,308,Greenwich Village - SoHo,2013,32.9,NULL
+130423,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,309,Union Square - Lower East Side,2013,24.9,NULL
+130424,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,310,Lower Manhattan,2013,13.7,NULL
+130425,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,401,Long Island City - Astoria,2013,6.7,NULL
+130426,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,402,West Queens,2013,2.3,NULL
+130427,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,403,Flushing - Clearview,2013,5.1,NULL
+130428,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,404,Bayside - Little Neck,2013,1.6,NULL
+130429,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,405,Ridgewood - Forest Hills,2013,2.7,NULL
+130430,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,406,Fresh Meadows,2013,4.3,NULL
+130431,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,407,Southwest Queens,2013,0.8,NULL
+130432,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,408,Jamaica,2013,0.5,NULL
+130433,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,409,Southeast Queens,2013,0.3,NULL
+130434,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,410,Rockaways,2013,0,NULL
+130435,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,501,Port Richmond,2013,0,NULL
+130436,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,502,Stapleton - St. George,2013,0.4,NULL
+130437,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,503,Willowbrook,2013,0,NULL
+130438,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,504,South Beach - Tottenville,2013,0,NULL
